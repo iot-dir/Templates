@@ -42,6 +42,8 @@ Notice that we aim to record the meeting.
 
 ## ASDF (Michael Richardson / Niklas Widell)
 
+## CBOR (Barry Leiba / Christian Amsüss)
+
 
 ## CoRE (Jaime Jimenez / Marco Tiloca)
 
