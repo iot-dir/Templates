@@ -68,6 +68,9 @@ Notice that we aim to record the meeting.
 ## RATS (Kathleen/ Nancy / Ned)
 
 
+## RAW (Rick Taylor / Eve Schooler)
+
+
 ## ROLL (Dominique Barthel / Ines Robles)
 
 
@@ -77,13 +80,13 @@ Notice that we aim to record the meeting.
 ## TEEP (Tiru Reddy / Nancy Cam-Winget)
 
 
-## T2TRG (Ari Keränen / Carsten Bormann)
 
+# IRTF:
 
 ## COIN (Jeffrey He / Eve Schooler / Marie-Jose Montpetit)
 
 
-## RAW (Rick Taylor / Eve Schooler)
+## T2TRG (Ari Keränen / Carsten Bormann)
 
 
 # New/planned IETF/IRTF IoT activities
