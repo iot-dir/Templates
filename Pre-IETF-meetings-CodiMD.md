@@ -81,7 +81,7 @@ Notice that we aim to record the meeting.
 
 
 
-# IRTF:
+# IRTF
 
 ## COIN (Jeffrey He / Eve Schooler / Marie-Jose Montpetit)
 
