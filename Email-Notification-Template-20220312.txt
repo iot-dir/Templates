@@ -1,0 +1,33 @@
+Example Model:
+
+Dear all, 
+
+The pre-IETF-XXX meeting will take place on XXX at XXX UTC. Please find attached the ics calendar.
+
+Agenda: 
+
+Please let us know by XXX if you want to present a topic other than the IoT WG/RG Status update and how much time you would need. 
+
+Current draft agenda:
+
+Overview of the IETF/IRTF IoT groups (WG/RG chairs; 1-2 minutes per group)
+New/planned IETF/IRTF IoT activities
+Other IoT SDOs update/activities (if applicable, e.g. IoTSF, etc. )
+AOB. 
+
+WG/RG Status: 
+
+@WG/RG Chairs, we kindly request to fill with the update of your WG/RG at: https://notes.ietf.org/iot-dir-preIETF113meeting-2022-03-09-notes 
+If you notice that an IoT IETF WG/RG is not in the list, please feel free to add/update it as needed. 
+
+Please fill it by XXX. 
+
+Webex: Note that we aim to record and publish the meeting. 
+
+XXX
+
+The meeting material (e.g. minutes, link to the recording) will be hosted here: https://github.com/iot-dir/Meetings/tree/main/XXX
+
+Thanks,
+
+Ines, Samita and Ari
