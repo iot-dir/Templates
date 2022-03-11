@@ -17,7 +17,7 @@ AOB.
 
 WG/RG Status: 
 
-@WG/RG Chairs, we kindly request to fill with the update of your WG/RG at: https://notes.ietf.org/iot-dir-preIETF113meeting-2022-03-09-notes 
+@WG/RG Chairs, we kindly request to fill with the update of your WG/RG at: https://notes.ietf.org/iot-dir-preIETFXXXmeeting-XXXX-XX-XX-notes 
 If you notice that an IoT IETF WG/RG is not in the list, please feel free to add/update it as needed. 
 
 Please fill it by XXX. 
