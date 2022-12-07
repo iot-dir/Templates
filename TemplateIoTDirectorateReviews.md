@@ -9,10 +9,15 @@ For more information, please see
 <https://datatracker.ietf.org/group/iotdir/about/>
 
 Document:
+
 Reviewer:
+
 Review Date:
+
 IETF Review End Date:
+
 IESG Telechat date: (if known)
+
 
 Summary:
 
