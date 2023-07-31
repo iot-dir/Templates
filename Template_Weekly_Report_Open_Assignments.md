@@ -5,11 +5,11 @@ The following reviewers have assignments:
 
 Reviewer               Due        Draft
 
-* <reviewer-name-1>     <Date-1>      <draft-name-1>
+* <\reviewer-name-1\>     <\Date-1\>      <\draft-name-1\>
            
   ...
   
-* <reviewer-name-n>     <Date-n>      <draft-name-n> 
+* <\reviewer-name-n\>     <\Date-n\>      <\draft-name-n\> 
 
 
 
