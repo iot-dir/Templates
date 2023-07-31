@@ -3,7 +3,7 @@ Hi all,
 The following reviewers have assignments:
 
 
-Reviewer                      Due              Draft
+Reviewer --------------------Due---------------Draft
 
 * <\reviewer-name-1\>     <\Date-1\>      <\draft-name-1\>
            
