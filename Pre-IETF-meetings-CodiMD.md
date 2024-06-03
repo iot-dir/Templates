@@ -78,6 +78,8 @@ Notice that we aim to record the meeting.
 ## SCHC (Alexander Pelov / Pascal Thubert)
 
 
+## SCITT (Christopher Inacio, Jon Geater) --> What do you think about this one? Does it fall into IoT Scope, charter: https://datatracker.ietf.org/wg/scitt/about/
+
 
 ## SUIT (Dave Thaler / David Waltermire / Russ Housley)
 
