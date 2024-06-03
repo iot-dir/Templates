@@ -68,13 +68,20 @@ Notice that we aim to record the meeting.
 ## RATS (Kathleen/ Nancy / Ned)
 
 
-## RAW (Rick Taylor / Eve Schooler)
+## RAW (Rick Taylor / Eve Schooler) - CLOSED
 
 
 ## ROLL (Dominique Barthel / Ines Robles)
 
 
+
+## SCHC (Alexander Pelov / Pascal Thubert)
+
+
+
 ## SUIT (Dave Thaler / David Waltermire / Russ Housley)
+
+
 
 
 ## TEEP (Tiru Reddy / Nancy Cam-Winget)
