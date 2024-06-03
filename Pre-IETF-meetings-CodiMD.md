@@ -29,7 +29,7 @@ Notice that we aim to record the meeting.
 
 # Overview of the IETF/IRTF IoT groups
 
-## 6TiSCH (Thomas Watteyne / Pascal Thubert)
+## 6TiSCH (Thomas Watteyne / Pascal Thubert) - CLOSED
 
 
 ## 6lo (Carles Gomez / Shwetha Bhandari)
@@ -59,10 +59,10 @@ Notice that we aim to record the meeting.
 ## LAKE (Mališa Vučinić / Stephen Farrell)
 
 
-## LWIG (Mohit Sethi / Zhen Cao)
+## LWIG (Mohit Sethi / Zhen Cao) - CLOSED
 
 
-## LPWAN (Alex Pelov / Pascal Thubert)
+## LPWAN (Alex Pelov / Pascal Thubert) - CLOSED
 
 
 ## RATS (Kathleen/ Nancy / Ned)
