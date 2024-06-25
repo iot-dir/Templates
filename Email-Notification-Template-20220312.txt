@@ -1,5 +1,41 @@
 Example Model:
 
+Subject: Pre IETF XXXX IoT Directorate Meeting - Meeting Details
+
+Dear all,
+
+Thank you for completing the Doodle.
+
+The Pre-IETF-XXX meeting is scheduled for XXXX at XXX UTC.
+
+The current draft agenda includes:
+
+An overview of the IETF/IRTF IoT groups by WG/RG chairs (1-2 minutes per group)
+New/planned IETF/IRTF IoT activities
+Updates on other IoT SDOs' activities, if applicable (e.g., IoTSF, etc.)
+AOB
+
+Status of WG/RG: @WG/RG Chairs, we kindly request that you update your WG/RG's status at the following link:
+
+XXXX
+
+Please ensure to update this before the meeting. If you find that an IoT IETF WG/RG is missing from the list, please add or update it accordingly. 
+
+Remote Participation Information can be found here: XXXX
+
+Meeting materials, such as minutes and the recording link, will be available here: XXXX
+
+icalendar: XXXX
+
+Thank you.
+
+Best regards,
+Ines, Samita, and Ari
+
+
+
+----------------------- Example 2 -------------------
+
 Dear all, 
 
 The pre-IETF-XXX meeting will take place on XXX at XXX UTC. Please find attached the ics calendar.
